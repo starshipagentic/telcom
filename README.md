@@ -1,2 +1,3 @@
 # telcom
-Placeholder repo for the telcom project
+
+Placeholder package. The `telcom` name is reserved for a future project.
